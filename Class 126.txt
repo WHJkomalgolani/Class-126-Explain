@@ -1,0 +1,7 @@
+First run app.py file of class125 in VS code.
+Then run ngrok which student will install from Student activity1.
+Then open class 126 code in cmd.
+Please scan the qr code from mobile expo .
+Scan any number image in phone.
+But there is a bug that when i scan a number in phone some other number is getting displayed as an output.
+Team is working on it.
